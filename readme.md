@@ -1,4 +1,4 @@
-#Kloia QA Day 2022 Tips Session 3 repository
+# Kloia QA Day 2022 Tips Session 3 repository
 
 1- Comparing locator speeds with Appium Inspector
 
